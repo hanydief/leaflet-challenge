@@ -1,6 +1,10 @@
 # leaflet-challenge
 Visualize earthquake data based on United States Geological Survey - USGS, API's
 
+# Contributors - Thank you for helping on Module Study group:
+- Vinny Shankar -- [Vinny Shankar](https://github.com/VinnyShankar)
+- Jed Miller -- [Jed Miller](https://github.com/Jed-Miller)
+
 # Background
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
 
@@ -9,9 +13,9 @@ The USGS is interested in building a new set of tools that will allow them to vi
 # Instructions
 The instructions for this activity are broken into two parts:
 
-## Part 1: Create the Earthquake Visualization
+### Part 1: Create the Earthquake Visualization
 
-## Part 2: Gather and Plot More Data (Optional with no extra points earning)
+### Part 2: Gather and Plot More Data (Optional with no extra points earning)
 
 # Part 1: Create the Earthquake Visualization
 
@@ -30,7 +34,7 @@ Hint: The depth of the earth can be found as the third coordinate for each earth
 Include popups that provide additional information about the earthquake when its associated marker is clicked.
 Create a legend that will provide context for your map data.
 
-![Part1-CircleMagnitudeMarkerBindPop%26Legend]:(https://github.com/hanydief/leaflet-challenge/blob/main/Outputs/Part1-CircleMagnitudeMarkerBindPop%26Legend.png)
+![Part1-CircleMagnitudeMarkerBindPop%26Legend](https://github.com/hanydief/leaflet-challenge/blob/main/Outputs/Part1-CircleMagnitudeMarkerBindPop%26Legend.png)
 
 # Part 2: Gather and Plot More Data (Optional with no extra points earning)
 Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplatesLinks to an external site..
@@ -43,9 +47,9 @@ Add other base maps to choose from.
 Put each dataset into separate overlays that can be turned on and off independently.
 Add layer controls to your map.
 
-![Part2-all_layers%26groups]:(https://github.com/hanydief/leaflet-challenge/blob/main/Outputs/Part2-all_layers%26groups.png)
-![Part2-TectonicPlates%26TopoMap]:(https://github.com/hanydief/leaflet-challenge/blob/main/Outputs/Part2-TectonicPlates%26TopoMap.png)
-![Part2-OSMMap%26IncativatingSubGroups]:(https://github.com/hanydief/leaflet-challenge/blob/main/Outputs/Part2-OSMMap%26IncativatingSubGroups.png)
+![Part2-all_layers%26groups](https://github.com/hanydief/leaflet-challenge/blob/main/Outputs/Part2-all_layers%26groups.png)
+![Part2-TectonicPlates%26TopoMap](https://github.com/hanydief/leaflet-challenge/blob/main/Outputs/Part2-TectonicPlates%26TopoMap.png)
+![Part2-OSMMap%26IncativatingSubGroups](https://github.com/hanydief/leaflet-challenge/blob/main/Outputs/Part2-OSMMap%26IncativatingSubGroups.png)
 
 # Requirements
 These requirements apply only to "Part 1: Create the Earthquake Visualization" as "Part 2" is optional with no extra points earning.
