@@ -1,7 +1,8 @@
 # leaflet-challenge
 Visualize earthquake data based on United States Geological Survey - USGS, API's
 
-# Contributors - Thank you for helping on Module Study group:
+# Contributors - 
+Thank you for helping on Challenge Study Group:
 - Vinny Shankar -- [Vinny Shankar](https://github.com/VinnyShankar)
 - Jed Miller -- [Jed Miller](https://github.com/Jed-Miller)
 
